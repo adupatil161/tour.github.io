@@ -1,0 +1,12 @@
+.navbar-light .navbar-nav .nav-link{
+    
+    font-weight: 400;
+}
+.body{
+    background-color: darkkhaki;
+}
+/* style.css */
+.custom-logo {
+    max-height: 50px; /* Adjust the max-height as needed */
+    max-width: 100%; /* Ensures the image doesn't exceed its container */
+}
